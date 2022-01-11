@@ -1,30 +1,30 @@
 # Hệ thống quản lý và bán đồ nội thất
 
 login: 
-    -account: admin@gmail.com
-    -password: admin1234
+     * account: admin@gmail.com
+     * password: admin1234
     
     
 ##📖Description
-  Môn học: Lập trình ứng dụng cho các thiết bị di động - Nhóm 2
-  Hoàng Ngọc Thành
-  MSV: 18T1021285
+   * Môn học: Lập trình ứng dụng cho các thiết bị di động - Nhóm 2
+   * Họ và tên: Hoàng Ngọc Thành
+   * MSV: 18T1021285
   
   
 ##⭐Getting Started
--Project này chỉ mới là UI 
--sẽ phát triển dần để hoàn thiện hệ thống
+ * Project này chỉ mới là UI 
+ * sẽ phát triển dần để hoàn thiện hệ thống
 
 
 ##📚 Package using
-*cupertino_icons: ^1.0.4
-*flutter_svg: ^0.22.0
-*provider: ^6.0.0
-*rolling_switch: ^0.0.2
-*firebase_auth: ^3.3.4
-*firebase_core: ^1.10.6
-*fluttertoast: ^8.0.8
-*cloud_firestore: ^3.1.5
+ * cupertino_icons: ^1.0.4
+ * flutter_svg: ^0.22.0
+ * provider: ^6.0.0
+ * rolling_switch: ^0.0.2
+ * firebase_auth: ^3.3.4
+ * firebase_core: ^1.10.6
+ * fluttertoast: ^8.0.8
+ * cloud_firestore: ^3.1.5
 
 
 ## Feature implement

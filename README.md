@@ -11,7 +11,7 @@ login:
   MSV: 18T1021285
   
   
-##⭐Getting Started<\br>
+##⭐Getting Started
 -Project này chỉ mới là UI 
 -sẽ phát triển dần để hoàn thiện hệ thống
 

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847584905805",
+    "project_id": "furnitureapphusc",
+    "storage_bucket": "furnitureapphusc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847584905805:android:40ee45703b447497346a04",
+        "android_client_info": {
+          "package_name": "com.thanhhoang.husc.furniture_e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847584905805-ridudqpo8hj5c2g5h4dkce3c99k6oasq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thanhhoang.husc.furniture_e_commerce_app",
+            "certificate_hash": "ee4df82a963470e2d052b0311f983f5d929c577d"
+          }
+        },
+        {
+          "client_id": "847584905805-8mmk5uapngf9fdvmjot0bmrs4vqoqac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVsN-TJg8_lzBqiNQ9oPBA-3jUfWA1_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847584905805-8mmk5uapngf9fdvmjot0bmrs4vqoqac4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
